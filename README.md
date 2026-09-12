@@ -14,7 +14,7 @@ O programa irá **calcular automaticamente** o desconto da compra, com base no v
 
 ## Objetivo do Projeto
 
-Praticar e desenvolver condições fundamentais de programação. Exemplo:
+Praticar e desenvolver condições fundamentais de programação, como:
 
 - 📥📤 Entrada e saída de dados (`input()` / `print()`)
 - 🔀 Estruturas condicionais (`if` / `else`)
