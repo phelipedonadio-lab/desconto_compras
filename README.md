@@ -1,4 +1,4 @@
-# Distribuição de Descontos em Compras de Produtos
+# 🏷️ Distribuição de Descontos em Compras de Produtos
  
 ![Python](https://skillicons.dev/icons?i=python) ![VS Code](https://skillicons.dev/icons?i=vscode)
 
